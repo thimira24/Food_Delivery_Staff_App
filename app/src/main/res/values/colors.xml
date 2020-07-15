@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="main_color">#09AC10</color>
+    <color name="color_ash">#D9D8DA</color>
+    <color name="color_orange">#F64630</color>
+
+    <color name="border_color">#AA333639</color>
+    <color name="color_yellow">#FF9800</color>
+
+    <color name="gradient_start">#009688</color>
+    <color name="gradient_middle">#4CAF50</color>
+    <color name="gradient_end">#8BC34A</color>
+
+    <color name="color_notify">#FF2C76</color>
+    <color name="color_notify1">#E91E3C</color>
+    <color name="color_effect">#E6F3DAD3</color>
+
+    <color name="colorAccent1">#06B700</color>
+    <color name="dark_background">#202020</color>
+    <color name="dark_effect">#323232</color>
+    <color name="dark_effect1">#F8242323</color>
+    <color name="dark_sub_text">#969696</color>
+    <color name="dark_sub_primary">#f0f0f0</color>
+
+    <color name="btn_color_1">#565657</color>
+    <color name="btn_color_2">#3D3D3D</color>
+    <color name="btn_color_3">#FF9800</color>
+    <color name="btn_color_4">#3E4D83</color>
+
+</resources>

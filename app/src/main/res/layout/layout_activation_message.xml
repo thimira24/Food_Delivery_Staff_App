@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingTop="8dp"
+    android:paddingRight="8dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="0dp"
+        android:fontFamily="@font/allerrg"
+        android:gravity="center_horizontal"
+        android:text=" Account Activation!"
+        android:textAlignment="center"
+        android:textColor="@color/dark_background"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/allerrg"
+        android:gravity="center_horizontal"
+        android:paddingLeft="5dp"
+        android:text="Successfully Registered as a Staff member."
+        android:textAlignment="center"
+        android:textColor="@color/dark_effect"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:fontFamily="@font/allerrg"
+        android:gravity="center_horizontal"
+        android:paddingLeft="5dp"
+        android:text="Admin will Activate your Account!"
+        android:textAlignment="center"
+        android:textColor="@color/dark_effect"
+        android:textSize="14sp" />
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/activation" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="0dp"
+        android:fontFamily="@font/allerrg"
+        android:gravity="center_horizontal"
+        android:paddingLeft="5dp"
+        android:text="If you have any inquiries please contact us! \n+9471 7701797"
+        android:textAlignment="center"
+        android:textColor="#999999"
+        android:textSize="14sp" />
+
+
+    <Button
+        android:id="@+id/btn_activation"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/button_design8"
+        android:fontFamily="@font/allerrg"
+        android:text="Check Activation"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp" />
+
+
+</LinearLayout>
